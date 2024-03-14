@@ -1,0 +1,14 @@
+Link Pendukung Project Akhir Machine Learning:
+Kelompok 10_Prediksi Inflasi Pendidikan Based on Several Cities in Indonesia
+Anggota Kelompok:
+Marcellino Joshua K.       [2602190375]
+Nickolas Mathew Geraldinho [2602189511]
+
+
+PPT : https://www.canva.com/design/DAF_aW5bO7o/kgnRVmkEwb6hu2u7Z0kjYA/view?utm_content=DAF_aW5bO7o&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+Github: https://github.com/ininick/Machine-Learning_Education-Inflation-Prediction
+
+Deployment: https://prediksiinflasipendidikan-e6qhr657awdyjvqhf8mysw.streamlit.app/
+
+Video: https://youtu.be/g4LKcFDIwcY?si=6KrHZIeUVXfUW1WH
